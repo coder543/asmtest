@@ -2,7 +2,7 @@
 name = "asmtest"
 version = "0.1.0"
 dependencies = [
- "libasm 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
+ "libasm 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
@@ -12,7 +12,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "libasm"
-version = "0.1.1"
+version = "0.1.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "cc 1.0.4 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -53,7 +53,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [metadata]
 "checksum cc 1.0.4 (registry+https://github.com/rust-lang/crates.io-index)" = "deaf9ec656256bb25b404c51ef50097207b9cbb29c933d31f92cae5a8a0ffee0"
-"checksum libasm 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)" = "a8c833e3f46a0d68a63133a65eb6e79138030c7f6927172ac1a0511e6484751d"
+"checksum libasm 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)" = "7006d6a0c38a11b6b4e8a614a25d84b3598ec7abdf5d3112efcfd7006fe306ff"
 "checksum proc-macro2 0.2.1 (registry+https://github.com/rust-lang/crates.io-index)" = "5f9786e83afb5654ab1b336584548011f252db3c320c0ddba5dc21a1a76f83ca"
 "checksum quote 0.4.2 (registry+https://github.com/rust-lang/crates.io-index)" = "1eca14c727ad12702eb4b6bfb5a232287dcf8385cb8ca83a3eeaf6519c44c408"
 "checksum syn 0.12.5 (registry+https://github.com/rust-lang/crates.io-index)" = "e4bc67298ba51bdc530696c71d09cfb94d7d762f36b3cf7e6469d57a84fd74ec"
